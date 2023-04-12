@@ -39,6 +39,12 @@ Therefore, our group explored various sources and came across [Kaggle's Spotify 
 - [Spotify_EDA_v4.pdf](https://github.com/jia-shing/pic16a-spotify/blob/main/Spotify_EDA_v4.pdf): Jupyter Notebook exported as PDF via LaTeX
 - Other .csv files are for mapping and their respective use cases are described in the ipynb and PDF files
 
+# Critique
+Due to the timeline of this project, we consulted with the instructor of this course and decided to narrow down each song such that it maps to exactly one (of the five) genre. This may help with decision region plotting and reduce the complexity of our models. However, to do so, we had to manually narrow down each song into one genre. Even though we tried to reduce subjectivity and avoid introducing more randomness into our dataset by assigning one team member to carry out all the mapping, we think that this may not be the best way to proceed.
+
+# Suggestion
+Classify the songs based on quantitative variables of the song such as Valence, Tempo, Danceability etc. This may be a much more objective way of doing things. However, this may also mean that we introduce mutlicollinearity into the dataset since Genre is directly correlated to a handful of quantitative variables in the dataset.
+
 # Contributions
 This group project wouldn't have been possible without the support of my teammates LiYuan Tan and Sidney Shah. I truly appreciate their wilingness to explore something other than a well-trodden path and I think it speaks to their character.
 
