@@ -5,7 +5,7 @@ This repository contains my capstone group project at UCLA's PIC16A (Python with
 # Motivation
 Traditionally, this class uses the [Palmer Penguins](https://philchodrow.github.io/PIC16A/content/IO_and_modules/IO/palmer_penguins.csv) data. However, our group believed that this dataset was too limited in terms of datapoints (400) and was nicely clustered for the purposes for this class. We sought to challenge our data analysis and Python skills by working on *messy real-life datasets*.
 
-Therefore, our group explored various sources and came across [Kaggle's Spotify dataset](https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021) describing all songs which made it to Spotify's Top 200 Charts in 2020-2021. This dataset stood out to us because ==**we were curious to see if we could utilize the machine learning algorithms we've learnt so far to predict something as subjective as song taste**== (which introduces a large amount of unpredictability and randomness into our dataset).
+Therefore, our group explored various sources and came across [Kaggle's Spotify dataset](https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021) describing all songs which made it to Spotify's Top 200 Charts in 2020-2021. This dataset stood out to us because **we were curious to see if we could utilize the machine learning algorithms we've learnt so far to predict something as subjective as song taste** (which introduces a large amount of unpredictability and randomness into our dataset).
 
 # Description of Dataset
 | Field                      | Description                                                                                                                          |
